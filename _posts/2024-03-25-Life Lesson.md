@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Future Topics
+title: Life Lessons (?)
 ---
-Life Lessons (?)
 
 Yes, There’s a reason I have put a “?” as I’m reasonably confident but still not 100% sure.
 But then again, can anyone ever be!
