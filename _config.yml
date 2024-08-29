@@ -16,7 +16,16 @@ author:
 # Gems
 plugins:
   - jekyll-paginate
-
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-coffeescript
+  - jekyll-commonmark-ghpages
+  - jekyll-gist
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
 # Custom vars
 version:             1.1.0
 google_analytics_id: G-EH6JMJ3MQE
